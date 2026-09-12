@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ritch Vaughn Profile</string>
+    <string name="splash_subtext">\"A Fall may be an End, but it is also a New Beginning, and that\'s what we call Rise\"</string>
+
+    <string name="label_name">Full Name</string>
+    <string name="value_name">Ritch Vaughn V. Agne</string>
+
+    <string name="label_course">Course &amp; Section</string>
+    <string name="value_course">BSIT 3C</string>
+
+    <string name="label_contact">Contact Information</string>
+    <string name="value_contact">ritchyagne@gmail.com\n0955 159 5876</string>
+
+    <string name="label_bio">About Me</string>
+    <string name="value_bio">I am an imaginative creator and tech enthusiast who loves blending art and logic. Whether I’m composing music, digital painting, gaming, or exploring nature and sci-fi worlds, I\'m always looking for new ways to build and create.</string>
+</resources>
