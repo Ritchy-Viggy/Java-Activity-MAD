@@ -14,8 +14,7 @@ public class SplashActivity extends AppCompatActivity {
         // This line tells the app to show the "activity_splash" design first!
         setContentView(R.layout.activity_splash);
 
-        // We use a "Handler" like a kitchen timer to wait for 5 seconds.
-        // 5000 milliseconds = 5 seconds.
+        // We use a "Handler" to wait for 5 seconds.
         new Handler(Looper.getMainLooper()).postDelayed(() -> {
             // After the timer rings, we "Intent" to go to the next screen (MainActivity).
             Intent intent = new Intent(SplashActivity.this, MainActivity.class);
